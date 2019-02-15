@@ -1922,7 +1922,7 @@
    
   
 ## Examples  
- 다음 예제에서는 사용 하는 방법에 설명 합니다 <xref:System.GC.WaitForPendingFinalizers%2A> 수집 된 모든 개체의 종료가 완료 될 때까지 현재 스레드를 일시 중단 하는 방법입니다.  
+ 다음0 예제에서는 사용 하는 방법에 설명 합니다 <xref:System.GC.WaitForPendingFinalizers%2A> 수집 된 모든 개체의 종료가 완료 될 때까지 현재 스레드를 일시 중단 하는 방법입니다.  
   
  [!code-cpp[System.GC.WaitForPendingFinalizers Example#1](~/samples/snippets/cpp/VS_Snippets_CLR_System/system.GC.WaitForPendingFinalizers Example/CPP/class1.cpp#1)]
  [!code-csharp[System.GC.WaitForPendingFinalizers Example#1](~/samples/snippets/csharp/VS_Snippets_CLR_System/system.GC.WaitForPendingFinalizers Example/CS/class1.cs#1)]
